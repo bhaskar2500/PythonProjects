@@ -1,0 +1,4 @@
+isbnlib==3.6.7
+isbntools==4.3.4
+xlrd==1.0.0
+XlsxWriter==0.9.6
